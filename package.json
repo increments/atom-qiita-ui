@@ -1,0 +1,15 @@
+{
+  "name": "qiita-ui",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "Qiita UI theme for AAtom",
+  "keywords": [
+    "ui",
+    "theme"
+  ],
+  "repository": "https://github.com/increments/atom-qiita-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
