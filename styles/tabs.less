@@ -56,18 +56,16 @@
   }
 }
 
-.atom-dock-inner {
-  .tab {
-    .title {
-      color: transparent;
+.tab[data-type="TreeView"] {
+  .title {
+    color: transparent;
 
-      &::after {
-        content: "Qiita";
-        color: @q-white;
-        font-size: 1.3em;
-        font-family: -apple-system,Segoe UI,Helvetica Neue,sans-serif;
-        letter-spacing: 0.1em;
-      }
+    &::after {
+      content: "Qiita";
+      color: @q-white;
+      font-size: 1.3em;
+      font-family: -apple-system,Segoe UI,Helvetica Neue,sans-serif;
+      letter-spacing: 0.1em;
     }
   }
 }
