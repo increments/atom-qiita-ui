@@ -7,3 +7,8 @@
 ```
 $ apm install qiita-ui
 ```
+
+## Links
+
+- [Qiita syntax](https://github.com/increments/atom-qiita-syntax)
+- [Qiita UI](https://github.com/increments/atom-qiita-ui)
